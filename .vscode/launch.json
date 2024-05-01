@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "twonuberadd",
+            "request": "launch",
+            "mainClass": "twonuberadd",
+            "projectName": "java program_d4001001"
+        },
+        {
+            "type": "java",
+            "name": "Launch External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": ""
+        }
+    ]
+}
